@@ -1,5 +1,3 @@
-# Asterisk-SIP
-
 Asterisk Commands:
 ===================
 
